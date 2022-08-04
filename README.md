@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LaurenFennell
+- 👋🏾 Hi, I’m @LaurenFennell
 - 👀 I’m interested in computers, plants and making my own oat milk.
 - 🌱 I’m currently learning computer science fundamentals and how to code in JavaScript.
 - 💞️ I’m looking to collaborate on projects big and small.
